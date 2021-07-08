@@ -1,5 +1,5 @@
 # Hi, I am Swastika 👋
-
+![](https://komarev.com/ghpvc/?username=Swastyy)
 <!--
 ## About me
 ### 
