@@ -1,4 +1,4 @@
-### Hi, I am Swastika 👋
+# Hi, I am Swastika 👋
 
 <!--
 ## About me
