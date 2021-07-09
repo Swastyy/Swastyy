@@ -12,16 +12,16 @@
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: http://imgur.com/kgZriRn.png (twitter icon with padding)
 [2.1]: http://imgur.com/4kP9bcC.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[3.1]: http://imgur.com/LHjsfr3.png (github icon with padding)
 [4.1]: http://imgur.com/CjlwcS1.png (LinkedIn icon with padding)
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://imgur.com/kgZriRn.png (twitter icon without padding)
 [2.2]: http://imgur.com/4kP9bcC.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: http://imgur.com/LHjsfr3.png (github icon without padding)
 [4.2]: http://imgur.com/CjlwcS1.png (LinkedIn icon with padding)
 
 <!-- links to your social media accounts -->
