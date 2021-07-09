@@ -31,6 +31,11 @@
 [2]: http://www.facebook.com/swasti.gupta.161
 [3]: http://www.github.com/Swastyy
 [4]: https://www.linkedin.com/in/swasty/
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Swastyy&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&langs_count=5&theme=tokyonight)]()
+
 <!--
 ## About me
 ### 
