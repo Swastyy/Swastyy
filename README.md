@@ -37,21 +37,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Swastyy&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&langs_count=5&theme=tokyonight)]()
 
-#/bin/bash
-Releases=("3.1" "Callisto" "Europa" "Ganymede" "Galielo" "Helios" "Indigo")
-Dates=("2004-07-01", "2005-07-01", "2006-07-01", "2007-07-01", "2008-07-01", "2009-07-01", "2010-07-01", "2011-07-01")
-let "counter = 1"
-
-for i in "${Releases[@]}"
-do
-  git shortlog -s -n  --after=${Dates[counter-1]} --before=${Dates[counter]}
-  echo -n "Total $i: " 
-  git log --pretty=oneline --after=${Dates[counter-1]} --before=${Dates[counter]} | wc -l
-  echo "=======================" 
-  echo
-  let "counter +=1"
-done
-
 <!--
 ## About me
 ### 
