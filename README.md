@@ -1,5 +1,6 @@
 # Hi, I am Swastika 👋
 ![](https://komarev.com/ghpvc/?username=Swastyy)
+
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
@@ -31,6 +32,7 @@
 [2]: http://www.facebook.com/swasti.gupta.161
 [3]: http://www.github.com/Swastyy
 [4]: https://www.linkedin.com/in/swasty/
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Swastyy&count_private=true&theme=tokyonight&showicons=true)]()
