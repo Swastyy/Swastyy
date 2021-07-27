@@ -1,42 +1,42 @@
 # Hi, I am Swastika 👋
 ![](https://komarev.com/ghpvc/?username=Swastyy)
 
-<!-- display the social media buttons in your README -->
+<div align="center" > 
+  
+### Connect with me:
+[<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">][twitter]
+</div > 
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
+---
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
+<!-- <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
+<!-- <code> <img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code> -->
+<!-- <code> <img height = "20" src="https://www.php.net/images/logos/new-php-logo.svg" > </code> -->
+### Github Activity Graph:-
+[![Swastika's github activity graph](https://activity-graph.herokuapp.com/graph?username=Swastyy&theme=react-dark)](https://github.com/Swastyy/github-readme-activity-graph)
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
 
-<!-- icons with padding -->
-
-[1.1]: http://imgur.com/kgZriRn.png (twitter icon with padding)
-[2.1]: http://imgur.com/4kP9bcC.png (facebook icon with padding)
-[3.1]: http://imgur.com/LHjsfr3.png (github icon with padding)
-[4.1]: http://imgur.com/CjlwcS1.png (LinkedIn icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://imgur.com/kgZriRn.png (twitter icon without padding)
-[2.2]: http://imgur.com/4kP9bcC.png (facebook icon without padding)
-[3.2]: http://imgur.com/LHjsfr3.png (github icon without padding)
-[4.2]: http://imgur.com/CjlwcS1.png (LinkedIn icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/Swastyyyy?s=09
-[2]: http://www.facebook.com/swasti.gupta.161
-[3]: http://www.github.com/Swastyy
-[4]: https://www.linkedin.com/in/swasty/
-
+<!--   ### Github Trophies:-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Swastyy&theme=gruvbox)](https://github.com/Swastyy/github-profile-trophy)-->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Swastyy&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&langs_count=5&theme=tokyonight)]()
+<div align="center">  
+  
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastyy"/></td></tr></table>
+<!--   
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&langs_count=5&theme=tokyonight)]() -->
 
+</div>
+
+[facebook]: http://www.facebook.com/swasti.gupta.161
+[github]: http://www.github.com/Swastyy
+[linkedin]: https://www.linkedin.com/in/swasty/
+[twitter]: http://www.twitter.com/Swastyyyy?s=09
 <!--
 ## About me
 ### 
