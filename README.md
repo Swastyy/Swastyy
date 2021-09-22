@@ -23,10 +23,13 @@
 
 <!--   ### Github Trophies:-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Swastyy&theme=gruvbox)](https://github.com/Swastyy/github-profile-trophy)-->
-
+<div align="center" > 
+  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Swastyy&count_private=true&theme=tokyonight&showicons=true)]()
 <div align="center">  
-  
+    
+</div > 
+
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastyy"/></td></tr></table>
 <!--   
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&langs_count=5&theme=tokyonight)]() -->
