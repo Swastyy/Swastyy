@@ -30,7 +30,7 @@
     
 </div > 
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastyy"/></td></tr></table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&layout=compact"/></td><!--<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastyy"/></td>--></tr></table>
 <!--   
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastyy&langs_count=5&theme=tokyonight)]() -->
 
